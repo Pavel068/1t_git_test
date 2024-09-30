@@ -1,0 +1,4 @@
+passwords.txt
+tmp
+node_modules
+*.json
